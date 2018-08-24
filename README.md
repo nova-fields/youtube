@@ -5,7 +5,7 @@ Simple Laravel Nova Youtube field. Convert attribute value to an embed YouTube-V
 
 You can install the package in to a Laravel app that uses Nova via composer:
 ```
-composer require nova-fields/Youtube
+composer require nova-fields/youtube
 ```
 
 ## Usage:
